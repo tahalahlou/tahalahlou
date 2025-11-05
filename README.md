@@ -18,12 +18,6 @@ I like building things that make life easier (or at least less annoying). Lately
 
 ---
 
-## 📊 GitHub Snapshot
-![Stats](https://github-readme-stats.vercel.app/api?username=tahalahlou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahalahlou&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Links
 [![Connect](https://img.shields.io/badge/Connect-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taha--lahlou-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-lahlou/)
