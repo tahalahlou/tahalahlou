@@ -11,7 +11,6 @@ I like building things that make life easier (or at least less annoying). Lately
   Built a **Java-based automation system** on **AWS Lambda** that uses **agentic AI workflows** to **analyze, resolve, and reroute support tickets** stemming from downstream service degradations, **launched to production**.
 
 - **[GradCU](https://www.gradcu.me/)**
-  
   Developed an **interactive degree-requirements and course-prerequisite visualizer** for Columbia University, supporting **9,000+ students** with multi-year planning; built a **performant graph system** with dynamic filtering across **64 courses** and AND/OR logic nodes.
 
 
