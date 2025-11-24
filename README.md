@@ -11,14 +11,12 @@ I like building things that make life easier (or at least less annoying). Lately
   Built a **Java-based automation system** on **AWS Lambda** that uses **agentic AI workflows** to **analyze, resolve, and reroute support tickets** stemming from downstream service degradations, **launched to production**.
 
 - **Social Stockfish**  
-  Built a **conversational generative-AI co-pilot** that takes a user-defined goal, **applies Monte Carlo simulations** to model potential conversation paths, **evaluates replies**, and **recommends the next best response in real time**.
+  Building a **conversational generative-AI co-pilot** that takes a user-defined goal, **applies Monte Carlo simulations** to model potential conversation paths, **evaluates replies**, and **recommends the next best response in real time**.
 
-- **AI Job Application Assistant**  
-  Built an **end-to-end job-application system** that **aggregates listings** from major job boards, **uses generative AI to determine fit**, **produces tailored, role-specific r’esum’es in LaTeX**, and **submits applications automatically**.
 
 ---
 
 ## 🔗 Links
-[![Connect](https://img.shields.io/badge/Connect-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Connect](https://img.shields.io/badge/Connect-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taharayanlahlou@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taha--lahlou-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-lahlou/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A0A0A?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://tahalahlou.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A0A0A?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://tahalahlou.dev/)
