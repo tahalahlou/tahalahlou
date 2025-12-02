@@ -1,7 +1,7 @@
 # Hi there 👋
 
 **I’m Taha.**  
-I like building things that make life easier (or at least less annoying). Lately, that’s meant **developing AI workflows to automate repetitive tasks** so I can focus on more creative projects. I’m an undergraduate at **Columbia University** studying computer science with a focus on **artificial intelligence and machine learning**. I’m particularly interested in **quantitative development** and **software engineering**.
+I like building things that make life easier (or at least less annoying). Lately, that’s meant **developing AI workflows to automate repetitive tasks** so I can focus on more creative projects. I’m an undergraduate at **Columbia University** studying computer science with a focus on **artificial intelligence and machine learning**. I’m particularly interested in **software engineering** and **quantitative development**.
 
 ---
 
