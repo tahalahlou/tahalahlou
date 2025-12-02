@@ -13,10 +13,6 @@ I like building things that make life easier (or at least less annoying). Lately
 - **[GradCU](https://www.gradcu.me/)**  
   Developed an **interactive degree-requirements and course-prerequisite visualizer** for Columbia University, supporting **9,000+ students** with multi-year planning; built a **performant graph system** with dynamic filtering across **64 courses** and AND/OR logic nodes.
 
-- **Social Stockfish**  
-  Building a **conversational generative-AI co-pilot** that takes a user-defined goal, **applies Monte Carlo simulations** to model potential conversation paths, **evaluates replies**, and **recommends the next best response in real time**.
-
-
 ---
 
 ## 🔗 Links
