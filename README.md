@@ -8,12 +8,10 @@ I like building things that make life easier (or at least less annoying). Lately
 ## 🧰 Recent Projects & Experience
 
 - **Software Development Engineer Intern @ Amazon (Global Payments Technology)**  
-  Built a **Java-based automation system** on **AWS Lambda** that uses **agentic AI workflows** to **analyze, resolve, and reroute support tickets** stemming from downstream service degradations, **launched to production**.
-
+  Built an **agentic, Java-based AWS Lambda automation** that uses **LLM-driven workflows** to reduce on-call engineer workload and speed up resolution of payment-related support tickets.
+  
 - **[GradCU](https://www.gradcu.me/)**  
-  Developed an **interactive degree-requirements and course-prerequisite visualizer** for Columbia University, supporting **9,000+ students** with multi-year planning; built a **performant graph system** with dynamic filtering across **64 courses** and AND/OR logic nodes.
-
----
+  Built an interactive degree planning and prerequisite visualizer for **9,000+** Columbia students and faculty, featuring dynamic graph rendering spanning **64 courses** with AND/OR logic.
 
 ## 🔗 Links
 [![Connect](https://img.shields.io/badge/Connect-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taharayanlahlou@gmail.com)
