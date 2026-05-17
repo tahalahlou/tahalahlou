@@ -8,7 +8,7 @@ I like building things that make life easier (or at least less annoying). I'm an
 ## 🧰 Recent Projects & Experience
 
 - **Software Development Engineer Intern @ Amazon** — Summer 2026  
-  Returning SDE Intern on the Global Payments Technology Org
+  Returning SDE Intern in the Global Payments Technology Organization
 
 - **The Comp Set @ Columbia Build Lab**  
   Built an **8-source ETL pipeline** aggregating 30k+ restaurant records and an **AI agent** to detect competitor price shifts across 565+ menu items.
