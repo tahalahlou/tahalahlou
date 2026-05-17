@@ -1,6 +1,7 @@
 # Hi there 👋
 
-**I'm Taha.**  
+**I'm Taha.**
+
 I like building things that make life easier (or at least less annoying). I'm an undergraduate at **Columbia University** studying computer science, particularly interested in **software engineering** and **quantitative development**.
 
 
