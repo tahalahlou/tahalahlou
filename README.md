@@ -11,10 +11,10 @@ I like building things that make life easier (or at least less annoying). I'm an
   Returning SDE Intern on the Global Payments Technology Org
 
 - **The Comp Set @ Columbia Build Lab**  
-  Built an **8-source ETL pipeline** aggregating 30k+ restaurant records and a **Claude-powered AI agent** to detect competitor price shifts across 565+ menu items.
+  Built an **8-source ETL pipeline** aggregating 30k+ restaurant records and an **AI agent** to detect competitor price shifts across 565+ menu items.
 
 - **Software Development Engineer Intern @ Amazon (Global Payments Technology)** — Summer 2025  
-  Built an **AI agent on AWS Lambda** that eliminated 16 wks/yr of on-call engineering effort and cut ticket resolution time by 2 days via writing parameterized Athena SQL queries across 10,000+ logs
+  Built an **AI agent on AWS Lambda** that eliminated 16 wks/yr of on-call engineering effort and cut ticket resolution time by 2 days via writing parameterized SQL queries using Amazon Athena across 10,000+ logs
   
 - **[GradCU](https://www.gradcu.me/)**  
   Interactive degree planning tool for **9,000+** Columbia students — prerequisite graph over **83 nodes** and **95 directed edges** with recursive DFS traversal.
