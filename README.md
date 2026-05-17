@@ -1,17 +1,26 @@
 # Hi there 👋
 
-**I’m Taha.**  
-I like building things that make life easier (or at least less annoying). Lately, that’s meant **developing AI workflows to automate repetitive tasks** so I can focus on more creative projects. I’m an undergraduate at **Columbia University** studying computer science with a focus on **artificial intelligence and machine learning**. I’m particularly interested in **software engineering** and **quantitative development**.
+**I'm Taha.**  
+I like building things that make life easier (or at least less annoying). I'm an undergraduate at **Columbia University** studying computer science, particularly interested in **software engineering** and **quantitative development**.
 
 ---
 
 ## 🧰 Recent Projects & Experience
 
-- **Software Development Engineer Intern @ Amazon (Global Payments Technology)**  
-  Built an **agentic, Java-based AWS Lambda automation** that uses **LLM-driven workflows** to reduce on-call engineer workload and speed up resolution of payment-related support tickets.
+- **Software Development Engineer Intern @ Amazon (PayStation Plugin Framework)** — Summer 2026  
+  Returning SDE Intern on the PayStation Plugin Framework team.
+
+- **The Comp Set @ Columbia Build Lab**  
+  Built an **8-source ETL pipeline** aggregating 30k+ restaurant records and a **Claude-powered AI agent** to detect competitor price shifts across 565+ menu items.
+
+- **Software Development Engineer Intern @ Amazon (Global Payments Technology)** — Summer 2025  
+  Built an **AI agent on AWS Lambda** that eliminated 16 wks/yr of on-call engineering effort and cut ticket resolution time by 2 days via writing parameterized Athena SQL queries across 10,000+ logs
   
 - **[GradCU](https://www.gradcu.me/)**  
-  Built an interactive degree planning and prerequisite visualizer for **9,000+** Columbia students and faculty, featuring dynamic graph rendering spanning **64 courses** with AND/OR logic.
+  Interactive degree planning tool for **9,000+** Columbia students — prerequisite graph over **83 nodes** and **95 directed edges** with recursive DFS traversal.
+
+- **[OnTrack NYC](https://github.com/tahalahlou/ontrack-nyc)**  
+  Real-time NYC Subway tracking app covering all **26 routes** and **900+ stops** with 5-second live polling.
 
 ## 🔗 Links
 [![Connect](https://img.shields.io/badge/Connect-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taharayanlahlou@gmail.com)
