@@ -17,7 +17,7 @@ I like building things that make life easier (or at least less annoying). I'm an
   Built an **AI agent on AWS Lambda** that eliminated 16 wks/yr of on-call engineering effort and cut ticket resolution time by 2 days via writing parameterized SQL queries using Amazon Athena across 10,000+ logs
   
 - **[GradCU](https://www.gradcu.me/)**  
-  Interactive degree planning tool for **9,000+** Columbia students — prerequisite graph over **83 nodes** and **95 directed edges** with recursive DFS traversal.
+  Enabled degree planning for 9k+ students via interactive graph over 83 nodes & 95 directed edges across 61 courses
 
 - **[OnTrack NYC](https://github.com/tahalahlou/ontrack-nyc)**  
   Real-time NYC Subway tracking app covering all **26 routes** and **900+ stops** with 5-second live polling.
