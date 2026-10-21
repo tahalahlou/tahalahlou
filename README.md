@@ -7,7 +7,7 @@ I like building things that make life easier (or at least less annoying). I'm an
 ## 🧰 Recent Projects & Experience
 
 - **Software Development Engineer Intern @ Amazon** — Summer 2026  
-  Returning SDE Intern in the Global Payments Technology Organization. Built features for an AI agent automating onboarding across 100+ payment processors and an analytics pipeline classifying 690+ user sessions.
+  Returning SDE Intern in the Global Payments Technology Organization. Built features for an AI agent automating onboarding across 100+ payment processors and an analytics pipeline classifying 690+ user sessions with the agent.
 
 - **The Comp Set @ Columbia Build Lab**  
   Built an **8-source ETL pipeline** aggregating 30k+ restaurant records and a **Claude AI agent** detecting competitor price shifts across 565+ menu items.
